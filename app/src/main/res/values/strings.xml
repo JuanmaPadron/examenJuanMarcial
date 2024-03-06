@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExamenJuanMarcial</string>
+    <string name="login">Login</string>
+    <string name="screen2">Material3</string>
+    <string name="back_button">Back</string>
+
+</resources>
